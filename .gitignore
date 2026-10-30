@@ -1,0 +1,21 @@
+# 构建临时产物（dist 下的 exe 是特意提交的）
+obj/
+bin/
+*.pdb
+*.mdb
+*.cache
+*.user
+*.suo
+
+# 编辑器
+.vs/
+.idea/
+.vscode/
+
+# 系统与临时文件
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.bak
+~$*
