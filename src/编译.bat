@@ -1,6 +1,6 @@
-// 端口检测工具的构建脚本
-// 用 .NET Framework 自带的 csc.exe 编译，不需要 Visual Studio
-// 用法：双击本文件，或在 src 目录下执行
+:: 端口检测工具的构建脚本
+:: 用 .NET Framework 自带的 csc.exe 编译，不需要 Visual Studio
+:: 用法：双击本文件，或在 src 目录下执行
 
 @echo off
 chcp 65001 >nul
